@@ -41,7 +41,7 @@ To gain some familiarity with front end fundamentals.
 ### Description:
 
 Main page with a navbar, a sidebar containing category nested dropdowns, and existing notes in the center.
-Note creation page using <template>s to add new components in some note sections (submitForm() needs to called from console since the submit button was not implemented).
+Note creation page using \<template\>s to add new components in some note sections (submitForm() needs to called from console since the submit button was not implemented).
 
 ## [csv-mapper](https://github.com/fabcaz/small-csv-mapper)
 
@@ -93,7 +93,7 @@ projects include:
 
 * [komb-ITcontainers](https://github.com/fabcaz/komb-ITcontainers) - Docker containers and sample DB data to integration test projects following along SFG's [Microservices](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru), [Spring Boot Test](https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/), and [Maven](https://www.udemy.com/course/apache-maven-beginner-to-guru/) courses
 
-* [ms-komb-order-service](https://github.com/fabcaz/ms-komb-order-service) - SpringBoot microservice application managing orders for an ecommerce; part of a set of projects following along SFG's [Microservices](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru), [Spring Boot Test](https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/) courses. It uses Spring State Machine to manage order status\w and Eventual Consistency, and interacts with other microservices asynchronously via Java Message Service. [Click here](https://github.com/fabcaz/ms-komb-order-service/blob/master/src/main/resources/static/diagrams/sm-state-diagram.png) for state machine diagram created using PlantULM.
+* [ms-komb-order-service](https://github.com/fabcaz/ms-komb-order-service) - SpringBoot microservice application managing orders for an ecommerce; part of a set of projects following along SFG's [Microservices](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru), [Spring Boot Test](https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/) courses. It uses Spring State Machine to manage order status and Eventual Consistency, and interacts with other microservices asynchronously via Java Message Service. [Click here](https://github.com/fabcaz/ms-komb-order-service/blob/master/src/main/resources/static/diagrams/sm-state-diagram.png) for state machine diagram created using PlantULM.
 
 * [kombucha-ms-bom](https://github.com/fabcaz/kombucha-ms-bom) - Incorporated a part of the [Maven course](https://www.udemy.com/course/apache-maven-beginner-to-guru/) into the [Microservices course](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru) projects by extracting common dependencies into a BOM uploaded to [packagecloud](https://packagecloud.io/kombuchamaster/release).
 
